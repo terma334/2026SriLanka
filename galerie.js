@@ -148,7 +148,7 @@ galerieErstellen("galerie8d", "pictures/Tag8/d", 17);
 
 // TAG 9
 
-tagesTrenner("Tag 9 <br> Sigirya -> Nilaveli", "Strandtag", "", , "pictures/map.jpg");
+tagesTrenner("Tag 9 <br> Sigirya -> Nilaveli", "Strandtag", "", "pictures/map.jpg");
 galerieErstellen("galerie9", "pictures/Tag9", 10);
 
 
